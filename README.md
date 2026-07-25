@@ -39,6 +39,7 @@ Expense Tracker is a Python-based application used to record, manage, and analyz
 
 ```bash
 python main.py
+```
 
 ## Output Screenshots
 
