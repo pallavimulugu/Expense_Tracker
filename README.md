@@ -43,17 +43,15 @@ python main.py
 ## Output Screenshots
 
 ### Main Menu
-![Menu](menu.png)
+![Menu](screenshots/menu.png)
 
 ### Add Expense
-![Add Expense](add_expense.png)
+![Add Expense](screenshots/add_expense.png)
 
 ### View Expenses
-![View Expenses](view_expenses.png)
+![View Expenses](screenshots/view_expenses.png)
 
 ### Total Expense
-![Total Expense](total_expense.png)
-
-## Conclusion
+![Total Expense](screenshots/total_expense.png)
 
 This project demonstrates Python programming concepts including functions, file handling, CSV operations, and exception handling.
